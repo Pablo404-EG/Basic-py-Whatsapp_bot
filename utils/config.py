@@ -1,0 +1,5 @@
+bot_name = "WhatsAppBot"
+bot_namber = "20*********" 
+owner_name = "pablo"
+owner_namber = "20********"
+our_channels "xxx"
