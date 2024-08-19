@@ -1,4 +1,4 @@
-# WhatsAppBot - Python Based WhatsApp Bot
+#  Python Based WhatsApp Bot
 
 # مقدمة
 
